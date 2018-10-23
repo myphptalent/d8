@@ -1,0 +1,11 @@
+my_module.settings:
+  title: 'My module basic settings'
+  base_route_name: my_module.settings
+  names:
+    - my_module.settings
+
+my_module.settings_advanced:
+  title: 'My module advanced settings'
+  base_route_name: my_module.settings_advanced
+  names:
+    - my_module.settings_advanced
