@@ -1,4 +1,4 @@
-# Article Ressources - Drupal 8, How to translate Config API
+# Article Ressources - Drupal 8, How to translate Config API.
 
 This is the Gist repository for my article **Drupal 8, How to translate Config API**.
 
